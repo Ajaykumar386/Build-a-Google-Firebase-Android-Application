@@ -1,0 +1,2 @@
+rootProject.name='World Peace Issues Monitor'
+include ':app'
